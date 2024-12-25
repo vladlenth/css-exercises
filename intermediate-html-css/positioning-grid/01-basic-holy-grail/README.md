@@ -1,12 +1,12 @@
 # The Holy Grail Layout with Grid
 
-Now it's time to practice the Grid tools we've learned and create a layout that might seem familiar. We're going to make a Holy Grail Layout like the ones we created using Flexbox. The difference here is that we won't be relying on Flexbox for this exercise. We'll only be using Grid. You'll be able to see the benefits of Grid for yourself!
+Теперь пришло время попрактиковаться в изученных нами инструментах Grid и создать макет, который может показаться знакомым. Мы собираемся создать макет Святого Грааля, подобный тем, которые мы создали с помощью Flexbox. Разница здесь в том, что в этом упражнении мы не будем полагаться на Flexbox. Мы будем использовать только Grid. Вы сможете сами убедиться в преимуществах Grid!
 
 ### Hints
 
-- You only need to add to the CSS selectors
-- Look back to the Creating a Grid lesson if you forget how to turn an element into a grid
-- Use fixed track sizes (e.g. pixels) for your columns and rows
+-Вам нужно только добавить селекторы CSS
+-Если вы забыли, как превратить элемент в сетку, вернитесь к уроку «Создание сетки».
+– Используйте фиксированные размеры дорожек (например, пикселей) для столбцов и строк.
 
 ## Desired Outcome
 
@@ -14,11 +14,11 @@ Now it's time to practice the Grid tools we've learned and create a layout that 
 
 ### Self Check
 
-- The gap is 15px
-- The grid has two columns
-- The grid has four rows
-- The second column is three times larger than the first
-- The third row is five times larger than the others
-- The header and footer elements span across both columns
-- The sidebar element only spans across the first column
-- The nav and article elements span across the second column
+- Зазор составляет 15 пикселей.
+- Сетка имеет два столбца
+- Сетка имеет четыре строки
+- Второй столбец в три раза больше первого
+- Третий ряд в пять раз больше остальных
+– Элементы верхнего и нижнего колонтитула охватывают оба столбца.
+- Элемент боковой панели охватывает только первый столбец.
+– Элементы навигации и статьи располагаются во втором столбце.
